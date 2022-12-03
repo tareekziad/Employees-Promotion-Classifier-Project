@@ -1,0 +1,30 @@
+Objectives:
+
+*Understanding Data
+*Univariant analysis
+
+*Some Statistical Insight:using (python , Power BI)
+
+1- What is Top Department for Top 5 Region ?
+2- For Technology & Operations Department What is the most Education Level ?
+3- For HR Department Which Gender is the Most ?
+4- What is the Average Age for Each Department ?
+5- What is the Highest Rate for Analytics Department ?
+6- For each department what is Max and Min Service Length ?
+7- What is Average Training Score for Each Department ?
+8- For Finance Department What is the Percentage of  Employees that Awarded ?
+9- For Top 5 Region Employment what is the highest Education Level ?
+10- What is percentage of (referred) Recruitment Channel in (Below Secondary) Education Level ?
+11- How Many Employees Take more than (2) trainings in the last year and get percentage of gender in it?
+12- What is Average Age for Male and Female ?
+13- For Age < 40 how many Employees get rate > 3 ?
+14- We need to know Distribution of  employees who get rate = 5 and NO_Trainings_LstYear <= 2 in Department ?
+15- What is the Percentage of Promoted Employees in each Department ?
+16- How Many Employees that Service Length less than or equal 1 year and was Promoted for each Department ?
+17- What is Top 10 Region Employment have Awarded Employees ?
+18- What is number for employees that awarded but not promoted in Below Secondary Education Level ?
+19- for regions that have least employment (5) what is the highest rate and what is the number of promoted employed for each region ?
+20- Is there any correlations between (previous_year_rating ,Service Length, Avg_Training_Score)?
+
+
+*Data Cleansing and Preparation 
