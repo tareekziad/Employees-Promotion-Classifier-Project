@@ -6,5 +6,5 @@ scikit-learn==1.1.1
 category_encoders==2.5.0
 xgboost==1.6.2
 streamlit==1.14.0
-imblearn==23.1.2
+imblearn==0.10.1
 joblib==1.1.0
